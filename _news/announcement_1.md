@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-03-01
 inline: true
 ---
 
-A simple inline announcement.
+Launching a first version of the website :tada: :tada:
